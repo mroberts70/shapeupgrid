@@ -53,10 +53,9 @@ Nav Menu
 #nav_menu ul {
     list-style-type: none;
     position: relative;
+
 }
-#nav_menu li {
-    width: 20%;
-}
+
 #nav_menu a {
     display: block;
     color: white;
